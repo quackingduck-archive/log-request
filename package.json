@@ -1,0 +1,14 @@
+{
+  "name": "log-request",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "seq-id": "~0.1.0"
+  },
+  "author": {
+    "name" : "Myles Byrne",
+    "email" : "myles@myles.id.au"
+  },
+  "license": "MIT"
+}
